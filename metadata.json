@@ -1,26 +1,27 @@
 {
-    "name": "Drake Meme Coin",
-    "symbol": "DRAKE",
-    "image": "https://ipfs.io/ipfs/bafybeid7ljkgvlmv2siebkc4o436qi4gflohrekrxen2ppxdqiixeagule",
-    "description": "The ultimate meme coin inspired by Drake!",
-    "seller_fee_basis_points": 0,
-    "attributes": [
-      {
-        "trait_type": "Category",
-        "value": "Meme Coin"
-      },
-      {
-        "trait_type": "Blockchain",
-        "value": "Solana"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://ipfs.io/ipfs/bafybeid7ljkgvlmv2siebkc4o436qi4gflohrekrxen2ppxdqiixeagule",
-          "type": "image/png"
-        }
-      ]
+  "name": "Drake Meme Coin",
+  "symbol": "DRAKE",
+  "image": "ipfs://bafybeid7ljkgvlmv2siebkc4o436qi4gflohrekrxen2ppxdqiixeagule",
+  "description": "The ultimate meme coin inspired by Drake!",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
     }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://bafybeid7ljkgvlmv2siebkc4o436qi4gflohrekrxen2ppxdqiixeagule",
+        "type": "image/png"
+      }
+    ]
   }
+}
+
   
